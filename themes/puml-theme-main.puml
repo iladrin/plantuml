@@ -1,0 +1,29 @@
+scale 400x300
+skinparam BackgroundColor transparent
+skinparam MinClassWidth 180
+hide circle
+skinparam classAttributeIconSize 0
+skinparam shadowing false
+
+<style>
+    note {
+        BackgroundColor 222
+        ArrowColor EDCA00
+        ArrowStyle bold
+        LineColor AAAAAA
+    }
+
+    class {
+        BackgroundColor e0e0e0
+        ArrowColor EDCA00
+        ArrowStyle bold
+        LineColor AAAAAA
+        UnderlineColor 333
+    }
+
+    legend {
+        LineThickness 0
+        FontSize 10
+        margin 20 0 10 0
+    }
+</style>
