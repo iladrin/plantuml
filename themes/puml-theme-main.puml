@@ -20,11 +20,11 @@ hide circle
         BackgroundColor efefef30
         LineThickness 2
         LineColor 00000030
-    
-        arrow {
-            LineColor LightPink
-            LineStyle bold
-        }
+    }
+
+    arrow {
+        LineColor LightPink
+        LineStyle bold
     }
 
     legend {
