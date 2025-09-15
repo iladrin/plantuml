@@ -1,9 +1,12 @@
 scale 400x300
 skinparam BackgroundColor transparent
 skinparam MinClassWidth 180
-hide circle
 skinparam classAttributeIconSize 0
 skinparam shadowing false
+skinparam linetype ortho
+skinparam nodesep 80
+skinparam ranksep 80
+hide circle
 
 <style>
     note {
@@ -19,7 +22,7 @@ skinparam shadowing false
         LineColor 00000030
     
         arrow {
-            LineColor green
+            LineColor LightPink
             LineStyle bold
         }
     }
